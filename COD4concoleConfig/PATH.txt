@@ -1,0 +1,2 @@
+Change path to config file in the next line.
+E:\CallOFDuty\Call of Duty Black Ops 4\players\000000001c0a6ac8\config.ini

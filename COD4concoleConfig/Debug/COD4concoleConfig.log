@@ -1,0 +1,8 @@
+﻿  myString.cpp
+f:\cplus\cod4concoleconfig\cod4concoleconfig\mystring.cpp(76): warning C4018: '>=': signed/unsigned mismatch
+f:\cplus\cod4concoleconfig\cod4concoleconfig\mystring.cpp(85): warning C4018: '<': signed/unsigned mismatch
+f:\cplus\cod4concoleconfig\cod4concoleconfig\mystring.cpp(130): warning C4018: '<': signed/unsigned mismatch
+f:\cplus\cod4concoleconfig\cod4concoleconfig\mystring.cpp(136): warning C4018: '<': signed/unsigned mismatch
+f:\cplus\cod4concoleconfig\cod4concoleconfig\mystring.cpp(142): warning C4018: '<': signed/unsigned mismatch
+f:\cplus\cod4concoleconfig\cod4concoleconfig\mystring.cpp(149): warning C4018: '<': signed/unsigned mismatch
+  COD4concoleConfig.vcxproj -> F:\Cplus\COD4concoleConfig\Debug\COD4concoleConfig.exe
